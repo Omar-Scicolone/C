@@ -1,7 +1,4 @@
-# Ciao
+# Programming in C
 
-Lorem ipsum...
+Collection of C projects from "Computer Science" (Basic C) and Algorithms and Programming (Advanced C)
 
-## Sub
-
-...dolore sit amen
