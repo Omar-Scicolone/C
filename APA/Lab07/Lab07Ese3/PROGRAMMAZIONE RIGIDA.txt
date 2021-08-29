@@ -1,0 +1,4 @@
+Personaggio con max 8 oggetti
+Aggiungere/rimuovere senza aver caricato oggetti
+Aggiungere/rimuovere senza controllo su 1/0
+Possibile mettere stesso oggetto piu volte

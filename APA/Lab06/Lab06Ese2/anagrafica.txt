@@ -1,0 +1,5 @@
+A0002 Matteo SalviniMerda 09/03/1973 LegaNord Milano 10500
+A0004 Giorgia Meloni 15/01/1977 FratellidItalia Roma 12345
+A0001 Silvio Berlusconi 29/09/1963 ForzaItalia Milano 10500
+A0005 Luigi diMaio 6/07/1986 MVS Avellino 93012
+A0003 Matteo Renzi 11/1/1975 PD Firenze 15551
