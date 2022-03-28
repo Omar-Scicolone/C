@@ -2,4 +2,4 @@
 
 ## The course dealt with many themes:
 
-Analysis of algorithms (8 h)
+### Analysis of algorithms (8 h)
