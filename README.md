@@ -1,7 +1,5 @@
-# Programming in C
+# Collection of C projects from "Algorithms and Programming" course 
 
-## Collection of C projects
+##The course dealt with many themes:
 
-* The projects in "APA" are from the course "Algorithms and Advanced Programming"
-* ...
-
+Analysis of algorithms (8 h)
